@@ -1,0 +1,5 @@
+gdown
+pdfplumber
+pytesseract
+Pillow
+openai
